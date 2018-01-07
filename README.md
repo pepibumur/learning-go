@@ -1,5 +1,7 @@
 # Learning Go
 
+<img src="http://www.unixstickers.com/image/cache/data/stickers/golang/golang.sh-600x600.png" width="150"/>
+
 This repository contains the examples of the book [The Go Programming Language](https://www.amazon.de/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440/ref=sr_1_1?ie=UTF8&qid=1515347274&sr=8-1&keywords=the+go+programming+language) together with some notes taken while reading the book.
 
 ## Go packages
