@@ -10,3 +10,4 @@ This repository contains the examples of the book [The Go Programming Language](
 - **strings**: Package strings implements simple functions to manipulate UTF-8 encoded strings.
 - **fmt**: Implements formatted I/O with functions
 - **time**: Package time provides functionality for measuring and displaying time.
+- **bufio**: Package bufio implements buffered I/O. It wraps an io.Reader or io.Writer object.
